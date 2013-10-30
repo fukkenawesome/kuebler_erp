@@ -18,7 +18,7 @@
       <c:url value="/testHomeRedirect.html" var="messageUrl" />
       <a href="${messageUrl}">Click to enter</a>
     </div>
-  
+	Some unuseful change
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://code.jquery.com/jquery.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
